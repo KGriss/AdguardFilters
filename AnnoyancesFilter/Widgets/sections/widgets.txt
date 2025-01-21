@@ -1825,6 +1825,10 @@ bike-news.jp,otonanswer.jp$$div[data-history="photo_extra"]
 buzzmag.jp##.date-tags + div.single-head > div.section-head2
 yukawanet.com###custom_html-27
 full-count.jp#?#section > div.c-heading:has(> p.c-heading__en:contains(RECOMMEND))
+cnews.fr###block-dm-ledirect-dm-ledirect-header-live
+cnews.fr##.keep-header-height
+cnews.fr##.ban-top-habillage
+cnews.fr##.header-menu.header-menu-visible { top: auto !important; }
 !   NOTE: Suggestion widgets end ⬆️
 !   !SECTION: Widgets - Suggestion widgets
 !
